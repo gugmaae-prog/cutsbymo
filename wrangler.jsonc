@@ -1,0 +1,15 @@
+{
+  "name": "cutsbymo-site",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-10-13",
+  "workers_dev": false,
+  "routes": [
+    {
+      "pattern": "cutsbymo.espacios.me",
+      "custom_domain": true
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
