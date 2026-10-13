@@ -11,5 +11,11 @@
   ],
   "observability": {
     "enabled": true
-  }
+  },
+  "r2_buckets": [
+    {
+      "binding": "MEDIA",
+      "bucket_name": "cutsbymo-media"
+    }
+  ]
 }
